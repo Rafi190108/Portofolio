@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka&display=swap');
+
+.clock {
+  font-family: "Fredoka";
+  text-align: center;
+  justify-content: center;
+  font-size: 55px;
+  color: white;
+}
+
+#date-time {
+  color: white;
+  font-family: "Fredoka";
+  font-size: 15px;
+  text-align: center;
+
+.clock {
+  margin: 1rem 1rem 0;
+  text-align: center;
+}
+
+#date-time {
+  text-align: center;
+}
